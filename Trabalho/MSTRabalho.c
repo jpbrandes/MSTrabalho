@@ -4,7 +4,7 @@
 #include <locale.h>
 #define PI 3.14159265358979323846
 
-// FEITO POR LUCAS EMANUEL GALVÃO CORREA E JOÃO PEDRO BRANDES
+// FEITO POR LUCAS EMANUEL GALVÃO CORREA E JOÃO PEDRO BRANDES BASTOS
 
 void calcular_flambagem() {
     int opcao_secao, opcao_k;
